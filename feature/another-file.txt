@@ -4,3 +4,5 @@ THis branch was replaced in feature-2 branch
 Here was a line
 
 This line was added in future-2 branch
+
+Another line added to the feature-2 branch
