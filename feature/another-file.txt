@@ -1,5 +1,6 @@
 Added another file.txt
 
-This file was modified locally
+THis branch was replaced in feature-2 branch
+Here was a line
 
-Here
+This line was added in future-2 branch
